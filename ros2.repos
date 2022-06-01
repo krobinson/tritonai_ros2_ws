@@ -4,7 +4,7 @@
 # Example:
 ############
 repositories:
-  examples:
+  tritonai_ros2_ws:
     type: git
-    url: https://github.com/ros2/examples.git
-    version: foxy
+    url: git@github.com:Triton-AI/Triton-AI-Racer-ROS2.git
+    version: main
